@@ -1,0 +1,46 @@
+.body-container {
+    border: 3px solid rgb(178, 37, 37);
+    height: 500px;
+    width: 50%;
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 20px;
+    background-color: beige;
+}
+
+.body-container h1 {
+    text-align: center;
+}
+
+.broder-img {
+    width: 610px;
+    height: 150px;
+    border: 7px solid rgb(245, 178, 97);
+    margin-bottom: 10px;
+}
+
+.text-container {
+    width: 590px;
+    height: 220px;
+    border: 7px dashed rgba(208, 152, 84, 0.738);
+    overflow-y: scroll;
+    background-color: yellow;
+    padding: 10px;
+
+}
+
+.bdu-discription {
+    text-align: justify;
+}
+
+.text {
+    text-decoration: underline;
+}
+
+.cam {
+    color: rgb(148, 201, 25);
+}
+
+.d {
+    color: rgb(148, 201, 25);
+}
